@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-2fi3pyxo7$83(igu=cd)v=3*+#@mbij!r_w0+x8q(r_drqm@uo
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://sidap.azurewebsites.net', 'localhost']
 
 
 # Application definition
