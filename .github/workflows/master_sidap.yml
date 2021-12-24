@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'Sidap'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_570E6E2747DD411DBEF9B64BE130F83B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_28FDBD16A45E4C4F815378932EDF545C }}
